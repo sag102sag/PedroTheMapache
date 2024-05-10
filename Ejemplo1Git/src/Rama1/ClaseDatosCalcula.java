@@ -4,7 +4,7 @@ public class ClaseDatosCalcula {
 private Integer num1;
 private Integer num2;
 private Integer num3;
-private Double resultado;
+private Double result;
 
 
 
