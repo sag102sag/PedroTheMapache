@@ -1,7 +1,7 @@
 package Rama1;
 
 public class ClaseDatosCalcula {
-private Integer num1;
+private Integer var1;
 private Integer num2;
 private Integer num3;
 private Double result;
@@ -10,18 +10,18 @@ private Double result;
 
 public ClaseDatosCalcula(Integer num1, Integer num2, Integer num3, Double result) {
 	super();
-	this.num1 = num1;
+	this.var1 = num1;
 	this.num2 = num2;
 	this.num3 = num3;
 	this.result = result;
 }
 
 public Integer getNum1() {
-	return num1;
+	return var1;
 }
 
 public void setNum1(Integer num1) {
-	this.num1 = num1;
+	this.var1 = num1;
 }
 
 public Integer getNum2() {
